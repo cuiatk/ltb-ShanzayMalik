@@ -27,8 +27,11 @@ public class Customer {
 		 */
 		
 		/**
-		 * TODO 3		10 Marks
-		 * Provide suitable specification for statement method 
+		 * This method has three tasks:
+		 * 1:customer calculates total rent for movies that are of children,regular and new release
+		 * 2:Method calculates the frequent renter points of the customer
+		 * 3:This method also displays the all information regarding customer
+		 *  
 		 */
 		public String statement() {
 		double totalAmount = 0;
