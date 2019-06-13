@@ -40,7 +40,7 @@ public class CustomerTest {
 	        assertEquals(me2.statement(),me2.statement());
 	    }
 	   /*
-		 *Test 3 tests rents one regular customer movie
+		 *Test 3 tests rents one  regular customer movie
 		 */
 	   @Test
 	    public void shouldDiscountRegularRental() {
